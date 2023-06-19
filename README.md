@@ -27,6 +27,12 @@ Furthermore, a positive correlation was observed between ADAS-Cog scores and age
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Clinic.png" alt="Clinic" width="900">
 </p>
 
+We first aimed to explore the differential plasma inflammation proteins in patients with Alzheimer's disease (AD) who exhibited varying ADAS-Cog scores. The concentration of plasma proteins was measured using normalized protein expression (NPX), represented as an arbitrary unit on a log2 scale derived from cycle threshold values.
+
+We conducted correlation analyses to examine the relationship between protein concentration levels and ADAS-Cog scores, as well as age, BMI, and gender (Figure A). Among the correlated proteins, SKAP1, NEFL, VPS37A, CALCOCO1, and SF3B4 demonstrated the strongest associations with ADAS-Cog scores.
+
+Furthermore, our differential analytical results unveiled significant alterations in the plasma levels of 170 proteins between the high and low ADAS-Cog groups (FDR < 0.05, Kruskal-Wallis test). Among these proteins, 150 were downregulated, while 20 were upregulated (Figure B).
+
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Proteomics.png" alt="Proteomics" width="900">
 </p>
