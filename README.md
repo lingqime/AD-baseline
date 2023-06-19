@@ -42,23 +42,46 @@ Of particular interest, we observed noteworthy downregulation of threonate, phos
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Metabolomics.png" alt="Metabolomics" width="900">
 </p>
 
+In our study, we explored the potential involvement of the gut and saliva microbiome in Alzheimer's disease (AD) using shotgun metagenomics analysis. We investigated the microbial composition and evaluated dysbiosis within the gut (Figure A) and saliva (Figure B) microbiomes across subjects with varying ADAS-Cog scores.
+
+Our analysis specifically concentrated on examining the differences between high and low ADAS-Cog groups. We aimed to understand the alterations in microbial profiles and identify potential dysbiosis patterns associated with AD severity.
+
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Metagenomics.png" alt="Metagenomics" width="900">
 </p>
+
+We employed a network-based approach to capture the complex interplay between various omics data in the context of AD. Our constructed network consisted of 47 nodes representing key clinical and omics features associated with AD.
+
+The nodes included the ADAS-Cog score, six significant clinical features identified through our clinical analysis, and the top 10 features derived from proteomics, metabolomics, gut metagenomics, and saliva metagenomics analyses.
+
+To establish functional relationships among these features, we computed Spearman's correlation coefficients. We visualized the correlations as red and blue edges connecting the corresponding nodes in the network, reflecting positive and negative associations, respectively. Furthermore, the size of each node in the network was proportional to its degree, indicating the number of connections it had with other nodes.
+
+This network-based approach allowed us to capture and visualize the intricate relationships and interactions among diverse omics features associated with AD, providing insights into the complex molecular landscape of the disease.
 
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Correlation.png" alt="Correlation" width="900">
 </p>
 
+We evaluated the predictive performance of the XGBoost model by visually comparing the regression results against the actual ADAS-Cog scores for each patient. To identify the most influential features within the XGBoost model, we employed the SHapley Additive exPlanations (SHAP) feature importance algorithm, as described by Lundberg and Lee (2017) (Figure A).
+
+Through our analysis, we identified the top ten predictive parameters, predominantly composed of proteins (SKAP1 and NEFL), metabolites (HVA, glutamate, 1-stearoyl-2-linoleoyl-GPC (18:0/18:2)*, and threonate), and gut/saliva microbiome components (Paraprevotella clara, Corynebacterium matruchotii, and Phocaeicola dorei).
+
+To evaluate the generalizability of our XGBoost model on independent testing cohorts, we assessed the prediction results as depicted in Figure B. The results showcased a high level of predictability, with a mean absolute error of 6.20 (including an extreme outlier). The diagonal dotted line in our visualization represented the ideal output. Our regression model demonstrated low bias when ADAS-Cog scores were 45 or below, indicating accurate prediction of cognitive function in the low, moderate, and partially high ADAS-Cog groups.
+
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/ML.png" alt="ML" width="900">
 </p>
+
+The most significant parameters associated with AD are summarized in the following figure.
 
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Summary.png" alt="Summary" width="900">
 </p>
 
-Here it is the overview of the study design. 
+## Citation
+If you are interested in exploring more comprehensive research results, we invite you to refer to our original paper:
+
+*Meng, L. et al.*, "**Multi-omics Analysis Reveals the Key Factors Involved in the Severity of Alzheimer's Disease**," *Journal Name*, *Volume*(Issue), *Year*, DOI: *insert DOI here*.
 
 ## Repository Structure
 The repository is organized as follows:
@@ -89,11 +112,6 @@ To reproduce the analysis presented in the paper, follow these steps:
 5. Refer to the **Results** directory for the generated figures, tables, and supplementary materials that support the findings described in the paper.
 
 6. If you encounter any issues or have questions, please don't hesitate to reach out to the authors listed in the paper.
-
-## Citation
-If you find this work useful in your research, please consider citing the paper:
-
-*Authors*, "**Multi-omics Analysis Reveals the Key Factors Involved in the Severity of Alzheimer's Disease**," *Journal Name*, *Volume*(Issue), *Year*, DOI: *insert DOI here*.
 
 ## License
 The source code and data in this repository are provided under the *insert license type* license. Please refer to the [LICENSE](LICENSE) file for more information.
