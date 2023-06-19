@@ -2,9 +2,6 @@
 
 This repository contains the source files for the paper titled **Multi-omics Analysis Reveals the Key Factors Involved in the Severity of Alzheimer's Disease**. The study focuses on understanding the factors that contribute to the severity of Alzheimer's disease using multi-omics analysis techniques.
 
-## Abstract
-Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progressive cognitive decline and memory loss. The severity of the disease can vary among individuals, but the underlying factors influencing this variability remain poorly understood. In this study, we conducted a comprehensive multi-omics analysis to identify key factors involved in the severity of AD.
-
 ## Snapshot of Our Research
 
 In this study, we conducted a two-phase assessment to evaluate individuals diagnosed with Alzheimer's disease (AD). The first phase involved a baseline assessment on day 0, followed by a follow-up visit on day 84, three months later.
