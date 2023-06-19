@@ -5,9 +5,18 @@ This repository contains the source files for the paper titled **Multi-omics Ana
 ## Abstract
 Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progressive cognitive decline and memory loss. The severity of the disease can vary among individuals, but the underlying factors influencing this variability remain poorly understood. In this study, we conducted a comprehensive multi-omics analysis to identify key factors involved in the severity of AD.
 
-## temp
+## Snapshot of Our Research
+
+In this study, we conducted a two-phase assessment to evaluate individuals diagnosed with Alzheimer's disease (AD). The first phase involved a baseline assessment on day 0, followed by a follow-up visit on day 84, three months later.
+
+Initially, a total of 87 individuals with AD were included in the study. They were stratified into three groups based on their quartile scores on the Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog). The ADAS-Cog is a numerical value derived from a cognitive test that reflects the severity of cognitive impairment, with higher scores indicating greater impairment.
+
+The low group consisted of individuals with ADAS-Cog scores below 15 (N = 20), the moderate group consisted of individuals with scores between 15 and 32 (N = 45), and the high group consisted of individuals with scores equal to or greater than 32 (N = 22).
+
+Out of the initial 87 patients, a total of 59 individuals completed the follow-up visit on day 84.
+
 <p align="center">
-  <img src="../AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="900">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="900">
 </p>
 
 <p align="center">
