@@ -9,7 +9,7 @@ Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progre
 
 In this study, we conducted a two-phase assessment to evaluate individuals diagnosed with Alzheimer's disease (AD). The first phase involved a baseline assessment on day 0, followed by a follow-up visit on day 84, three months later.
 
-Initially, a total of 87 individuals with AD were included in the study. They were stratified into three groups based on their quartile scores on the Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog). The ADAS-Cog is a numerical value derived from a cognitive test that reflects the severity of cognitive impairment, with higher scores indicating greater impairment.
+Initially, a total of 87 individuals with AD were included in the study. They were stratified into three groups based on their quartile scores on the Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog). The ADAS-Cog is a numerical value derived from a cognitive test that reflects the severity of cognitive impairment, **with higher scores indicating greater impairment**.
 
 The low group consisted of individuals with ADAS-Cog scores below 15 (N = 20), the moderate group consisted of individuals with scores between 15 and 32 (N = 45), and the high group consisted of individuals with scores equal to or greater than 32 (N = 22).
 
@@ -18,6 +18,10 @@ Out of the initial 87 patients, a total of 59 individuals completed the follow-u
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="900">
 </p>
+
+A correlation analysis was conducted to examine the association between ADAS-Cog scores and various variables. The findings revealed a significant negative correlation between ADAS-Cog scores and triglyceride levels, as well as ALT levels (p<0.05, Spearman's rank test). This suggests that higher ADAS-Cog scores are associated with lower triglyceride and ALT levels.
+
+Furthermore, a positive correlation was observed between ADAS-Cog scores and age, although the association did not reach statistical significance.
 
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Clinic.png" alt="Clinic" width="900">
