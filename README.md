@@ -34,6 +34,10 @@ Furthermore, our differential analytical results unveiled significant alteration
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Proteomics.png" alt="Proteomics" width="900">
 </p>
 
+We next conducted group pairwise analyses to identify metabolites that exhibited significant differences among different ADAS-Cog groups. Our results revealed significant variations in 157 metabolites between the high and low ADAS-Cog groups. Similarly, 20 metabolites exhibited significant differences between the high and moderate ADAS-Cog groups, while 61 metabolites were significantly different between the moderate and low ADAS-Cog groups (Figure A).
+
+Of particular interest, we observed noteworthy downregulation of threonate, phosphatidylethanolamines (PEs; specifically 1-stearoyl-2-linoleoyl-GPE (18:0/18:2)* and 1-stearoyl-2-oleoyl-GPE (18:0/18:1)), and diacylglycerols (DAGs; specifically palmitoyl-linoleoyl-glycerol (16:0/18:2) [2]* and oleoyl-linoleoyl-glycerol (18:1/18:2) [2]). Additionally, we observed significant upregulation of plasmalogens (specifically 1-(1-enyl-palmitoyl)-2-palmitoyl-GPC (P-16:0/16:0)* and 1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC (P-16:0/16:1)*), lactosyl-N-palmitoyl-sphingosine, trans-urocanate, and 2-ethylphenylsulfate among the different ADAS-Cog groups (Figure B).
+
 <p align="center">
   <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Metabolomics.png" alt="Metabolomics" width="900">
 </p>
