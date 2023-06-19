@@ -6,7 +6,9 @@ This repository contains the source files for the paper titled **Multi-omics Ana
 Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progressive cognitive decline and memory loss. The severity of the disease can vary among individuals, but the underlying factors influencing this variability remain poorly understood. In this study, we conducted a comprehensive multi-omics analysis to identify key factors involved in the severity of AD.
 
 ## temp
-<img src="https://github.com/lingqime/AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="400">
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="900">
+</p>
 
 Here it is the overview of the study design. 
 
