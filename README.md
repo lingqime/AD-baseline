@@ -7,7 +7,35 @@ Alzheimer's disease (AD) is a neurodegenerative disorder characterized by progre
 
 ## temp
 <p align="center">
-  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="900">
+  <img src="../AD-baseline/blob/main/images/Overview%20of%20study%20design.png" alt="Overview" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Clinic.png" alt="Clinic" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Proteomics.png" alt="Proteomics" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Metabolomics.png" alt="Metabolomics" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Metagenomics.png" alt="Metagenomics" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Correlation.png" alt="Correlation" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/ML.png" alt="ML" width="900">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lingqime/AD-baseline/blob/main/images/Summary.png" alt="Summary" width="900">
 </p>
 
 Here it is the overview of the study design. 
